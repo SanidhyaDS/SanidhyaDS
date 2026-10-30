@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Aspiring+Data+Scientist;Machine+Learning+%26+AI+Engineering+Student;Generative+AI+%7C+LLMs+%7C+RAG+%7C+MCP;MLOps+%7C+Docker+%7C+Kubernetes+%7C+MLflow;Building+Scalable+Data-Driven+AI+Solutions" alt="Typing SVG" />
+  <img src="./assets/typing.svg" alt="Typing animation" width="900" />
 </p>
 
 <p align="center">
@@ -201,11 +201,11 @@ I work across **Data Science, Machine Learning, Generative AI, LLMs, RAG, MLOps,
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanidhyaDS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=8B5CF6&text_color=E0F2FE" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SanidhyaDS&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" alt="GitHub Streak" />
+  <img width="49%" src="./assets/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanidhyaDS&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E0F2FE" alt="Top Languages" />
+  <img width="49%" src="./assets/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
@@ -213,7 +213,7 @@ I work across **Data Science, Machine Learning, Generative AI, LLMs, RAG, MLOps,
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanidhyaDS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+  <img src="./assets/trophies.svg" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -221,7 +221,7 @@ I work across **Data Science, Machine Learning, Generative AI, LLMs, RAG, MLOps,
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanidhyaDS&bg_color=020617&color=E0F2FE&line=22D3EE&point=8B5CF6&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="./assets/contribution-graph.svg" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
