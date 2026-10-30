@@ -31,11 +31,9 @@ I am pursuing an **MS in Computer Science specializing in Machine Learning & AI 
       <img src="https://shields.io"/>
       <img src="https://shields.io"/>
       <img src="https://shields.io"/>
-      <img src="https://shields.io"/>
     </td>
     <td valign="top" width="50%">
       📊 <b>Data Science & ML Libraries</b><br/>
-      <img src="https://shields.io"/>
       <img src="https://shields.io"/>
       <img src="https://shields.io"/>
       <img src="https://shields.io"/>
@@ -77,19 +75,19 @@ I am pursuing an **MS in Computer Science specializing in Machine Learning & AI 
 * **Summary:** Privacy-aware memory framework processing asynchronous events through 10 REST endpoints and 5 custom MCP tools.
 * **Tech:** Python, FastAPI, Next.js, Google Gemini, SentenceTransformers, Neo4j, PostgreSQL, Redis, Docker, Kubernetes.
 * **Impact:** Implemented temporal knowledge graphs and vector embeddings maintaining context retrieval under a strict **250 ms p95 latency budget**.
-* 🔗 [Code Repository](https://github.com)
+* 🔗 [Code Repository](https://github.com) *(Update this link to your specific repository when ready)*
 
 ### ✈️ Voyage Analytics: Production MLOps in Travel
 * **Summary:** Production-grade analytics pipeline processing over 312K records across multiple operational subsystems.
 * **Tech:** Python, Flask, Docker, Kubernetes, Apache Airflow, Jenkins, MLflow, Scikit-Learn.
 * **Impact:** Scaled workflow orchestration via Airflow DAGs and automated CI/CD pipelines, registering a **0.9949 R² score** with Random Forest architectures.
-* 🔗 [Code Repository](https://github.com)
+* 🔗 [Code Repository](https://github.com) *(Update this link to your specific repository when ready)*
 
 ### 🎬 Netflix Movies & TV Shows Unsupervised Clustering
 * **Summary:** An NLP-driven recommendations engine structuring 7.7K entries down into compressed optimal feature states.
 * **Tech:** Python, Pandas, Scikit-Learn, NLTK, TF-IDF, PCA.
 * **Impact:** Flattened features to principal components maintaining optimal variance, delivering a configuration with a **0.6514 Silhouette Score**.
-* 🔗 [Code Repository](https://github.com)
+* 🔗 [Code Repository](https://github.com) *(Update this link to your specific repository when ready)*
 
 ---
 
