@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="60" viewBox="0 0 900 60" role="img" aria-label="Aspiring Data Scientist | Machine Learning &amp; AI Engineering Student | Generative AI | LLMs | RAG | MCP | MLOps | Docker | Kubernetes | MLflow | Building Scalable Data-Driven AI Solutions">
+<defs>
+<clipPath id="c0"><rect x="284.4" y="0" height="60" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0.0000;0.0000;0.0938;0.1813;0.2000;1.0000" values="0.0;0.0;335.2;335.2;0.0;0.0"/></rect></clipPath>
+<clipPath id="c1"><rect x="154.8" y="0" height="60" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0.0000;0.2000;0.2938;0.3813;0.4000;1.0000" values="0.0;0.0;594.4;594.4;0.0;0.0"/></rect></clipPath>
+<clipPath id="c2"><rect x="219.6" y="0" height="60" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0.0000;0.4000;0.4938;0.5813;0.6000;1.0000" values="0.0;0.0;464.8;464.8;0.0;0.0"/></rect></clipPath>
+<clipPath id="c3"><rect x="190.8" y="0" height="60" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0.0000;0.6000;0.6938;0.7813;0.8000;1.0000" values="0.0;0.0;522.4;522.4;0.0;0.0"/></rect></clipPath>
+<clipPath id="c4"><rect x="147.6" y="0" height="60" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0.0000;0.8000;0.8938;0.9813;1.0000;1.0000" values="0.0;0.0;608.8;608.8;0.0;0.0"/></rect></clipPath>
+</defs>
+<text x="284.4" y="38.4" clip-path="url(#c0)" font-family="'Courier New', Consolas, monospace" font-size="24" font-weight="700" fill="#22D3EE" xml:space="preserve">Aspiring Data Scientist</text>
+<text x="154.8" y="38.4" clip-path="url(#c1)" font-family="'Courier New', Consolas, monospace" font-size="24" font-weight="700" fill="#22D3EE" xml:space="preserve">Machine Learning &amp; AI Engineering Student</text>
+<text x="219.6" y="38.4" clip-path="url(#c2)" font-family="'Courier New', Consolas, monospace" font-size="24" font-weight="700" fill="#22D3EE" xml:space="preserve">Generative AI | LLMs | RAG | MCP</text>
+<text x="190.8" y="38.4" clip-path="url(#c3)" font-family="'Courier New', Consolas, monospace" font-size="24" font-weight="700" fill="#22D3EE" xml:space="preserve">MLOps | Docker | Kubernetes | MLflow</text>
+<text x="147.6" y="38.4" clip-path="url(#c4)" font-family="'Courier New', Consolas, monospace" font-size="24" font-weight="700" fill="#22D3EE" xml:space="preserve">Building Scalable Data-Driven AI Solutions</text>
+</svg>
